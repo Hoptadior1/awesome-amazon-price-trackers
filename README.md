@@ -173,6 +173,10 @@ Yes. Recording publicly displayed prices is completely legal. Price tracking too
 
 Research tracking 100 Amazon products found that the average shopper overpays approximately $312 per year by not checking price history before buying. Consistent use of price tracking tools typically saves $200–500 annually.
 
+**What if I already bought something and the price dropped?**
+
+You may be able to get a refund for the price difference. Amazon has a price adjustment policy within 7 days of purchase for eligible items. See this complete guide on [what to do when you buy something on Amazon and the price drops](https://zroppix.com/blog/bought-something-amazon-price-dropped) — it covers exactly how to request a refund and what to do if Amazon refuses.
+
 **Does price history work on all Amazon regions?**
 
 Zroppix works across amazon.com, amazon.co.uk, amazon.ca, amazon.com.au, amazon.de, and other regional stores. CamelCamelCamel covers the major regions. Keepa has the broadest international coverage.

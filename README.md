@@ -202,3 +202,6 @@ Please keep submissions objective. This list aims to be genuinely useful, not pr
 ---
 
 *Last updated: May 2026 · Maintained by the open source community*
+
+
+- [DealMaxa](https://dealmaxa.com) - Free price tracker for AliExpress & Amazon with daily price history, open data (CC BY 4.0, DOI: 10.5281/zenodo.23460433) and embeddable widget.
